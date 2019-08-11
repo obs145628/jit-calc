@@ -30,7 +30,7 @@ A prompt will appear, where you can enter math expressions.
 
 Direct evaluation:
 ```
-$ ./calc <expression
+$ ./calc <expression>
 ```
 
 The calculator only handles integers, the 5 binary operators (+,-,*,/,%), and parentheses.
